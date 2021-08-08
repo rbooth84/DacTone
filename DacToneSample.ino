@@ -10,7 +10,7 @@ void setup() {
 void loop()
 {	
 	setDacToneSampleRate(48000); // default: 24000
-	setDacToneVolume(26, 0.8f); // 0.0 -> 1.0
+	setDacToneVolume(25, 0.8f); // 0.0 -> 1.0
 
 	// Arduino Tone Compatible methods example
 	/*
